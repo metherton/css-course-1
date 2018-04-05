@@ -23,4 +23,6 @@ div > p {
     background-color: #ccddff;
 }
 
-
+img[alt=spacer] {
+    padding: 30px;
+}
