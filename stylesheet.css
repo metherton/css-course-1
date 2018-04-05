@@ -26,3 +26,15 @@ div > p {
 img[alt=spacer] {
     padding: 30px;
 }
+
+
+
+/* pseudo class */
+
+a {
+    color: #000000;
+}
+
+a:visited {
+    color: #00ff00;
+}
