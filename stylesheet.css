@@ -10,3 +10,17 @@ div {
     background-color: #00ff00;
     font-size: larger;
 }
+
+.quotation {
+    background-color: #0000ff;
+}
+
+div p {
+    background-color: #bbddaa;
+}
+
+div > p {
+    background-color: #ccddff;
+}
+
+
