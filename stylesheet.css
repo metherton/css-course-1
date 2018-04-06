@@ -22,6 +22,7 @@ div p {
 
 div > p {
     background-color: #ccddff;
+    font-size: 28pt;
 }
 
 img[alt=spacer] {
