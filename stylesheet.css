@@ -17,6 +17,7 @@ div {
 
 div p {
     background-color: #bbddaa;
+    font-size: xx-large;
 }
 
 div > p {
