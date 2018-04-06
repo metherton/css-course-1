@@ -1,3 +1,7 @@
+body {
+    background-image: url('blades.png');
+}
+
 h1,h2 {
     background-color: #cccc99
 }
