@@ -17,7 +17,11 @@ div {
 
 div p {
     background-color: #bbddaa;
-    font-size: xx-large;
+    font-size: 1.5em;
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
+    width: 50%;
 }
 
 div > p {
