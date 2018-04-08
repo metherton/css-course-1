@@ -1,5 +1,9 @@
+* {
+    background-color: green;
+}
+
 body {
-    background-image: url('blades.png');
+    /*background-image: url('blades.png');*/
 }
 
 h1,h2 {
