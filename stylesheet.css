@@ -1,54 +1,7 @@
-* {
+p {
     background-color: green;
 }
 
-body {
-    /*background-image: url('blades.png');*/
-}
-
-h1,h2 {
-    background-color: #cccc99
-}
-
-div {
-    background-color: #ff0000;
-}
-
-#content {
-    background-color: #00ff00;
-    font-size: larger;
-}
-
-.quotation {
-    background-color: #0000ff;
-}
-
 div p {
-    background-color: #bbddaa;
-    font-size: 1.5em;
-    border-style: solid;
-    border-color: black;
-    border-width: thick;
-    width: 50%;
-}
-
-div > p {
-    background-color: #ccddff;
-    font-size: 28pt;
-}
-
-img[alt=spacer] {
-    padding: 30px;
-}
-
-
-
-/* pseudo class */
-
-a {
-    color: #000000;
-}
-
-a:visited {
-    color: #00ff00;
+    background-color: gray;
 }
