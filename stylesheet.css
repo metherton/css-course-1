@@ -1,16 +1,12 @@
-div {
-    font-size: 8px;
+ul {
+    background-color: #cccccc;
 }
 
-p {
-    background-color: green;
-    font-size: 22px;
-}
-
-div p {
-    background-color: gray;
-}
-
-#content {
-    background-color: fuchsia;
+ul li {
+    background-color: #cccc99;
+    padding: 10px;
+    margin: 25px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
 }
