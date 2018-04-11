@@ -17,3 +17,7 @@ ul li {
     margin: 5px;
 
 }
+
+ul li:nth-child(3) {
+    display: none;
+}
