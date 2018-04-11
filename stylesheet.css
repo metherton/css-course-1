@@ -5,7 +5,8 @@ body {
 
 
 ul li {
-    width: 250px;
+    width: 150px;
+    text-align: center;
     padding: 3px 0 0 10px;
     background-color: #cccc99;
     border-bottom: 3px solid #000000;
