@@ -7,3 +7,12 @@ body {
 .content {
     background-color: #eeeecc;
 }
+
+h1 {
+    font-size: 1.2em;
+}
+
+pre {
+    font-family: monospace;
+    font-size: 0.9em;
+}
