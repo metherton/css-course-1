@@ -8,11 +8,12 @@ body {
     background-color: #eeeecc;
     padding: 7px;
     text-indent: 3em;
+    line-height: 1.2em;
 }
 
 h1 {
     letter-spacing: 2em;
-
+    text-decoration: underline line-through;
     font-size: 1.2em;
 }
 
