@@ -6,6 +6,7 @@ body {
 
 .content {
     background-color: #eeeecc;
+    padding: 7px;
 }
 
 h1 {
@@ -15,4 +16,13 @@ h1 {
 pre {
     font-family: monospace;
     font-size: 0.9em;
+}
+
+ol {
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+.copyright {
+    font-weight: bold;
 }
