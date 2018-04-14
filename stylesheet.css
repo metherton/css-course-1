@@ -12,6 +12,10 @@ body {
     width: 120px;
 }
 
+.clear {
+    clear:both;
+}
+
 #buttons input:last-child {
     position: fixed;
     top: 20px;
