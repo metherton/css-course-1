@@ -1,32 +1,20 @@
 
 body {
-    background-color: #cccc99;
+
     font-family: sans-serif;
 }
 
-.content {
-    background-color: #eeeecc;
-    padding: 7px;
-    text-indent: 3em;
-    line-height: 1.2em;
+#buttons {
+    margin: 100px 0 100px 0;
 }
 
-h1 {
-    letter-spacing: 2em;
-    text-decoration: underline line-through;
-    font-size: 1.2em;
+#buttons input {
+    width: 120px;
 }
 
-pre {
-    font-family: monospace;
-    font-size: 0.9em;
+#buttons input:last-child {
+    position: relative;
+    top: 20px;
+    left: 50px;
 }
 
-ol {
-    font-style: italic;
-    font-size: 0.9em;
-}
-
-.copyright {
-    font-weight: bold;
-}
