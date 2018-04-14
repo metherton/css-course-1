@@ -19,5 +19,6 @@ body {
 }
 
 #figure1 {
-    float: right;
+    float: left;
+    margin-right: 5px;
 }
