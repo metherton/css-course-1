@@ -14,7 +14,7 @@ body {
 
 #buttons input:last-child {
     position: relative;
-    top: 20px;
-    left: 50px;
+    bottom: 20px;
+    right: 50px;
 }
 
