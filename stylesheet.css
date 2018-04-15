@@ -26,3 +26,16 @@ body {
     float: left;
     margin-right: 5px;
 }
+
+#authorinfo {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    background-color: yellow;
+    width: 300px;
+}
+
+#content {
+    background-color: red;
+    margin-left: 310px;
+}
