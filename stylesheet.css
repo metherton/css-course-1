@@ -33,22 +33,30 @@ body {
 }
 
 #links {
-    position: absolute;
-    top: 105px;
-    background-color: orange;
+    /*position: absolute;*/
+    /*top: 105px;*/
+
     width: 100px;
+    float: left;
+    background-color: orange;
 }
 
 #authorinfo {
-    position: absolute;
-    top: 105px;
-    background-color: yellow;
+    /*position: absolute;*/
+    /*top: 105px;*/
+    /*background-color: yellow;*/
+    /*width: 300px;*/
+    /*right: 0px;*/
+    float: left;
+    background-color: red;
     width: 300px;
-    right: 0px;
 }
 
 #content {
-    background-color: red;
-    margin-left: 105px;
-    margin-right: 310px;
+    /*background-color: red;*/
+    /*margin-left: 105px;*/
+    /*margin-right: 310px;*/
+    float: left;
+    background-color: green;
+    width: 600px;
 }
