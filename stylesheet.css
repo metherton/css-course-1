@@ -32,15 +32,23 @@ body {
     margin-right: 5px;
 }
 
+#links {
+    position: absolute;
+    top: 105px;
+    background-color: orange;
+    width: 100px;
+}
+
 #authorinfo {
     position: absolute;
     top: 105px;
-    left: 5px;
     background-color: yellow;
     width: 300px;
+    right: 0px;
 }
 
 #content {
     background-color: red;
-    margin-left: 310px;
+    margin-left: 105px;
+    margin-right: 310px;
 }
