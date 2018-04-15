@@ -4,6 +4,11 @@ body {
     font-family: sans-serif;
 }
 
+#header {
+    background-color: blue;
+    height: 100px;
+}
+
 #buttons {
     margin: 100px 0 100px 0;
 }
@@ -29,7 +34,7 @@ body {
 
 #authorinfo {
     position: absolute;
-    top: 5px;
+    top: 105px;
     left: 5px;
     background-color: yellow;
     width: 300px;
